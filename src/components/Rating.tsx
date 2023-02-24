@@ -74,8 +74,6 @@ if (props.value === 5){
     </div>
  );
 
-
-
 }
 
   type StarPropsType = {
