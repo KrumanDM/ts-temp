@@ -1,5 +1,5 @@
 import React from 'react';
-// import logo from './logo.svg';
+
 import './App.css';
 import Accordion from './components/Accordion';
 import {Rating} from './components/Rating';
