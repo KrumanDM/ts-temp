@@ -9,7 +9,7 @@ function App() {
   console.log("App rendering")
   return (
     <div>
-      {/* <img src={'https://sun9-61.userapi.com/impg/F6pn44xhfmrk4CAwDQE-gC45bBIHnJcFmYxTdA/ua__uJL3-i8.jpg?size=736x663&quality=95&sign=2650036cd5e8d5f8671bae2553175849&type=album'}/> */}
+    
       <PageTitle title={"This is APP component"}/>
       <PageTitle title={"My friends"}/>
       
